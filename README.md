@@ -1,4 +1,4 @@
-# cass.run
+# shopinfo.dev
 
 My own lil URL shortener
 
